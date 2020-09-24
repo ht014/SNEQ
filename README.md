@@ -3,8 +3,8 @@ This repository is the code of SNEQ.
 
 <h4>  Requirements </h4>
 Tensorflow >=1.4
+
 <h4> Cite as <h4>
- 
 @inproceedings{DBLP:conf/aaai/HeGSWHL20, <p>
   author    = {Tao He and
                Lianli Gao and
